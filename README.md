@@ -33,3 +33,5 @@ npx cdk deploy --all -c env=dev
 ```
 
 ## ブログリンク
+
+https://dev.classmethod.jp/articles/notify-slack-of-iam-access-analyzer/
